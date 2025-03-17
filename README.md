@@ -1,0 +1,2 @@
+# Medical-Image-segmentation-using-federated-aggregation
+ Federated Learning framework that aggregates client models using a Quality-Aware Federated Aggregation algorithm which  prioritizes clients with higher quality contributions. Evaluates client contributions based on accuracy, loss, and confidence intervals, assigning normalized weights for aggregation  and using the aggregation, segments the models
